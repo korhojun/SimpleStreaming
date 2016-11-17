@@ -1,2 +1,2 @@
 # SimpleStreaming
-Playing live streaming video from WowzaStreamingServer / VideoView
+Playing live streaming video from WowzaStreamingServer with VideoView 
